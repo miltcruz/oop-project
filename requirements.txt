@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+fastapi
+uvicorn
+joblib
+mlflow
+pyodbc
+python-dotenv
